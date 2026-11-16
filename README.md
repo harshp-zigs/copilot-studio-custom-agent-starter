@@ -1,10 +1,10 @@
 # How to Seamlessly Embed Google Gemini Into Your Existing SaaS & Enterprise Apps
 
-![Embed Google Gemini into SaaS and enterprise apps](gemini-saas-enterprise-apps.jpg)
+![Embed Google Gemini into SaaS and enterprise apps](m365-copilot-studio-enterprise.jpg)
 
 Adding a model to an application that people already depend on is a different job from building a new one. Every change touches live users, live data, and live workflows, so the work is less about the model and more about the seams where it meets your system.
 
-Teams that plan the seams first, around [Gemini RAG and agent orchestration](https://zignuts.com/), tend to ship faster and break less, because the questions of data access, actions, and approval are settled before the first release.
+Teams that plan the seams first, around Gemini RAG and agent orchestration, tend to ship faster and break less, because the questions of data access, actions, and approval are settled before the first release. The same discipline applies to organizations planning [Enterprise Microsoft Copilot Integration](https://zignuts.com/ai-services/ai-integration/microsoft-copilot-integration-services?utm_source=seo_web2.0&utm_medium=backlink&utm_campaign=seo_referral&utm_id=11), where the seams matter just as much.
 
 This workbook is the planning companion for that job. Fill in the tables for your own product, and check the provider's current capabilities and limits before you commit.
 
